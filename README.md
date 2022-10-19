@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="index.css" href="mystyle.css">
+<link rel="index.css" href="index.css">
 </head>
 <body>
 <h1>
